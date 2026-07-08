@@ -4,7 +4,7 @@
 
 
 -- -----------------------------------------------------
--- CREATE A CLEANING COPY
+-- CREATE A CLEANING DATA COPY
 -- -----------------------------------------------------
 SELECT *
 INTO diabetes_readmission_clean
